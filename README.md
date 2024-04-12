@@ -1,4 +1,4 @@
-# Site de pizza
+# Olá, mundo!
 
-Olá mundo estou criando meu primeiro repositorio e fazendo teste de versionamento
+Estou criando meu primeiro repositorio e fazendo teste de versionamento
 
